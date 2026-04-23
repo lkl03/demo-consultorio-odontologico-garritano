@@ -1,2 +1,7 @@
-# demo-consultorio-odontologico-garritano
-Demo web para Consultorio Odontologico Garritano — diseñada por eterlab.
+# Consultorio Odontologico Garritano
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
